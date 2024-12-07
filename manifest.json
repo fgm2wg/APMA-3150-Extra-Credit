@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "locale": "en_US",
+  "packages": [
+    {
+      "name": "shiny",
+      "version": "1.7.5"
+    }
+  ],
+  "files": {
+    "app.R": {
+      "checksum": "md5-PLACEHOLDER"
+    }
+  },
+  "r_version": "4.3.1",
+  "platform": "Linux-64"
+}
