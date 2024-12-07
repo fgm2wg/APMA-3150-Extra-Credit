@@ -15,7 +15,6 @@ ui <- fluidPage(
       
       br(),
       h4("About this App"),
-      helpText("Created by Colin Henry."),
       helpText("This app demonstrates how varying the mean and standard deviation affects the normal distribution."),
       hr()
     ),
